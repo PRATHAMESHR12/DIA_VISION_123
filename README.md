@@ -6,3 +6,6 @@ Tele-ophthalmology can make screening more accessible but
 requires trained readers and ophthalmologists.
 A smart diabetic retinopathy device that utilizes AI algorithms can be a valuable tool for early detection and management of diabetic retinopathy, a common complication of diabetes that
 can lead to vision loss if not diagnosed and treated promptly
+
+
+Due to our patent process is going on ,we cant share the ML train model hence kindly refer Zipped file which contain some videos to determine the following
